@@ -1,0 +1,42 @@
+.INCLUDE 45nm_HP.pm
+.OPTION GMIN=1e-020 ABSTOL=1e-18
+.option temp=25
+.PARAM Lmin=45n
+.PARAM Wmin=45n
+.PARAM Ldiff=90n
+.param supply = 1.1
+
+* Description of the cell
+Mn drain gate source body pmos W={4*Wmin} L={Lmin} AS={Wmin*Ldiff} AD={Wmin*Ldiff} PS={2*(Ldiff+Wmin)} PD={2*(Ldiff+Wmin)}
+Vs 	source	alim1		0
+Vd 	drain	alim	 0
+Vg 	gate	alim2		0
+
+Vb 	body	0		supply
+Vdd 	alim	0		0
+Vdd1 alim1 0 0
+* on case
+* Vdd2 alim2 0 0
+* off case
+Vdd2 alim2 0 supply
+
+* Control statements
+.CONTROL
+let Vddbasic=1.15
+*for source
+let voltage1=0
+
+while voltage1 le Vddbasic
+  alter Vdd1 = voltage1
+  let voltage = 0
+  while voltage le Vddbasic
+    alter Vdd = voltage
+    dc TEMP 25 25 25 
+    print abs(V(alim)) V(drain) V(gate) V(source) V(body) I(Vd) I(Vg) I(Vs) I(Vb) 
+    let voltage = voltage + 0.05
+  end
+  let voltage1 = voltage1 + 0.05
+end
+quit
+.ENDC
+.END

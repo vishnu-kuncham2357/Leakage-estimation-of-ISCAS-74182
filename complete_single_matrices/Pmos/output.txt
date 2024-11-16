@@ -1,0 +1,6894 @@
+******
+** ngspice-36 : Circuit level simulation program
+** The U. C. Berkeley CAD Group
+** Copyright 1985-1994, Regents of the University of California.
+** Copyright 2001-2020, The ngspice team.
+** Please get your ngspice manual from http://ngspice.sourceforge.net/docs.html
+** Please file your bug-reports at http://ngspice.sourceforge.net/bugrep.html
+** Creation Date: Sat Jan  1 18:54:42 UTC 2022
+******
+
+No compatibility mode selected!
+
+
+Circuit: *INCLUDE 45nm_HP.pm
+
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.803197e-10
+i(vg) = -3.60632e-10
+i(vs) = 1.803197e-10
+i(vb) = -7.77156e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.502953e-10
+i(vg) = -3.30611e-10
+i(vs) = 1.803197e-10
+i(vb) = -3.91354e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.247767e-10
+i(vg) = -3.05092e-10
+i(vs) = 1.803197e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.031411e-10
+i(vg) = -2.83457e-10
+i(vs) = 1.803197e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 8.484917e-11
+i(vg) = -2.65165e-10
+i(vs) = 1.803197e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 6.943187e-11
+i(vg) = -2.49748e-10
+i(vs) = 1.803197e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 5.648128e-11
+i(vg) = -2.36797e-10
+i(vs) = 1.803197e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 4.564324e-11
+i(vg) = -2.25959e-10
+i(vs) = 1.803197e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 3.661061e-11
+i(vg) = -2.16926e-10
+i(vs) = 1.803197e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 2.911738e-11
+i(vg) = -2.09433e-10
+i(vs) = 1.803197e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 2.293347e-11
+i(vg) = -2.03249e-10
+i(vs) = 1.803197e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.786016e-11
+i(vg) = -1.98176e-10
+i(vs) = 1.803197e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.372611e-11
+i(vg) = -1.94042e-10
+i(vs) = 1.803197e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.038379e-11
+i(vg) = -1.90699e-10
+i(vs) = 1.803197e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 7.706385e-12
+i(vg) = -1.88022e-10
+i(vs) = 1.803198e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 5.584678e-12
+i(vg) = -1.85901e-10
+i(vs) = 1.803204e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 3.921600e-12
+i(vg) = -1.84243e-10
+i(vs) = 1.803257e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 2.606225e-12
+i(vg) = -1.82970e-10
+i(vs) = 1.803671e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.325818e-12
+i(vg) = -1.82012e-10
+i(vs) = 1.806896e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = -1.87416e-12
+i(vg) = -1.81312e-10
+i(vs) = 1.831902e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = -2.16200e-11
+i(vg) = -1.80823e-10
+i(vs) = 2.024467e-10
+i(vb) = -3.88578e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = -1.68657e-10
+i(vg) = -1.80502e-10
+i(vs) = 3.491632e-10
+i(vb) = -3.99680e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 0.000000e+00
+v(body) = 1.100000e+00
+i(vd) = -1.26527e-09
+i(vg) = -1.80316e-10
+i(vs) = 1.445587e-09
+i(vb) = -6.10623e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 1.803197e-10
+i(vg) = -3.30611e-10
+i(vs) = 1.502953e-10
+i(vb) = -3.91354e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 1.502953e-10
+i(vg) = -3.00591e-10
+i(vs) = 1.502953e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 1.247767e-10
+i(vg) = -2.75072e-10
+i(vs) = 1.502953e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 1.031411e-10
+i(vg) = -2.53437e-10
+i(vs) = 1.502953e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 8.484917e-11
+i(vg) = -2.35145e-10
+i(vs) = 1.502953e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 6.943187e-11
+i(vg) = -2.19727e-10
+i(vs) = 1.502953e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 5.648128e-11
+i(vg) = -2.06776e-10
+i(vs) = 1.502953e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 4.564324e-11
+i(vg) = -1.95939e-10
+i(vs) = 1.502953e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 3.661061e-11
+i(vg) = -1.86906e-10
+i(vs) = 1.502953e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 2.911738e-11
+i(vg) = -1.79413e-10
+i(vs) = 1.502953e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 2.293347e-11
+i(vg) = -1.73229e-10
+i(vs) = 1.502953e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 1.786016e-11
+i(vg) = -1.68156e-10
+i(vs) = 1.502953e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 1.372611e-11
+i(vg) = -1.64021e-10
+i(vs) = 1.502953e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 1.038379e-11
+i(vg) = -1.60679e-10
+i(vs) = 1.502954e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 7.706406e-12
+i(vg) = -1.58002e-10
+i(vs) = 1.502954e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 5.584845e-12
+i(vg) = -1.55881e-10
+i(vs) = 1.502959e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 3.922928e-12
+i(vg) = -1.54223e-10
+i(vs) = 1.503001e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 2.616743e-12
+i(vg) = -1.52949e-10
+i(vs) = 1.503322e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = 1.408994e-12
+i(vg) = -1.51991e-10
+i(vs) = 1.505821e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = -1.21770e-12
+i(vg) = -1.51292e-10
+i(vs) = 1.525095e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = -1.64604e-11
+i(vg) = -1.50802e-10
+i(vs) = 1.672628e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = -1.28482e-10
+i(vg) = -1.50482e-10
+i(vs) = 2.789633e-10
+i(vb) = 0.000000e+00
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-02
+v(body) = 1.100000e+00
+i(vd) = -9.58792e-10
+i(vg) = -1.50295e-10
+i(vs) = 1.109087e-09
+i(vb) = -4.71845e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.803197e-10
+i(vg) = -3.05092e-10
+i(vs) = 1.247767e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.502953e-10
+i(vg) = -2.75072e-10
+i(vs) = 1.247767e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.247767e-10
+i(vg) = -2.49553e-10
+i(vs) = 1.247767e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.031411e-10
+i(vg) = -2.27918e-10
+i(vs) = 1.247767e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.484917e-11
+i(vg) = -2.09626e-10
+i(vs) = 1.247767e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.943187e-11
+i(vg) = -1.94208e-10
+i(vs) = 1.247767e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.648128e-11
+i(vg) = -1.81258e-10
+i(vs) = 1.247767e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.564324e-11
+i(vg) = -1.70420e-10
+i(vs) = 1.247767e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.661061e-11
+i(vg) = -1.61388e-10
+i(vs) = 1.247767e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.911738e-11
+i(vg) = -1.53894e-10
+i(vs) = 1.247767e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.293347e-11
+i(vg) = -1.47710e-10
+i(vs) = 1.247767e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.786016e-11
+i(vg) = -1.42637e-10
+i(vs) = 1.247767e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.372611e-11
+i(vg) = -1.38503e-10
+i(vs) = 1.247767e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.038379e-11
+i(vg) = -1.35161e-10
+i(vs) = 1.247767e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.706423e-12
+i(vg) = -1.32483e-10
+i(vs) = 1.247768e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.584975e-12
+i(vg) = -1.30362e-10
+i(vs) = 1.247772e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.923955e-12
+i(vg) = -1.28704e-10
+i(vs) = 1.247804e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.624821e-12
+i(vg) = -1.27431e-10
+i(vs) = 1.248055e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.472357e-12
+i(vg) = -1.26473e-10
+i(vs) = 1.250001e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -7.22060e-13
+i(vg) = -1.25773e-10
+i(vs) = 1.264952e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -1.26001e-11
+i(vg) = -1.25284e-10
+i(vs) = 1.378839e-10
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -9.86750e-11
+i(vg) = -1.24963e-10
+i(vs) = 2.236382e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -7.32853e-10
+i(vg) = -1.24777e-10
+i(vs) = 8.576295e-10
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.803197e-10
+i(vg) = -2.83457e-10
+i(vs) = 1.031411e-10
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.502953e-10
+i(vg) = -2.53437e-10
+i(vs) = 1.031411e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.247767e-10
+i(vg) = -2.27918e-10
+i(vs) = 1.031411e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.031411e-10
+i(vg) = -2.06282e-10
+i(vs) = 1.031411e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.484917e-11
+i(vg) = -1.87990e-10
+i(vs) = 1.031411e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.943187e-11
+i(vg) = -1.72573e-10
+i(vs) = 1.031411e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.648128e-11
+i(vg) = -1.59623e-10
+i(vs) = 1.031411e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.564324e-11
+i(vg) = -1.48784e-10
+i(vs) = 1.031411e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.661061e-11
+i(vg) = -1.39752e-10
+i(vs) = 1.031411e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.911738e-11
+i(vg) = -1.32258e-10
+i(vs) = 1.031411e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.293347e-11
+i(vg) = -1.26075e-10
+i(vs) = 1.031411e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.786016e-11
+i(vg) = -1.21001e-10
+i(vs) = 1.031411e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.372611e-11
+i(vg) = -1.16867e-10
+i(vs) = 1.031411e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.038379e-11
+i(vg) = -1.13525e-10
+i(vs) = 1.031411e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.706436e-12
+i(vg) = -1.10848e-10
+i(vs) = 1.031411e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.585077e-12
+i(vg) = -1.08727e-10
+i(vs) = 1.031414e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.924753e-12
+i(vg) = -1.07069e-10
+i(vs) = 1.031439e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.631071e-12
+i(vg) = -1.05795e-10
+i(vs) = 1.031636e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.521067e-12
+i(vg) = -1.04837e-10
+i(vs) = 1.033157e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -3.44024e-13
+i(vg) = -1.04138e-10
+i(vs) = 1.044815e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -9.68132e-12
+i(vg) = -1.03648e-10
+i(vs) = 1.133294e-10
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -7.63310e-11
+i(vg) = -1.03328e-10
+i(vs) = 1.796584e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -5.64700e-10
+i(vg) = -1.03141e-10
+i(vs) = 6.678414e-10
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.803197e-10
+i(vg) = -2.65165e-10
+i(vs) = 8.484917e-11
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.502953e-10
+i(vg) = -2.35145e-10
+i(vs) = 8.484917e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.247767e-10
+i(vg) = -2.09626e-10
+i(vs) = 8.484917e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.031411e-10
+i(vg) = -1.87990e-10
+i(vs) = 8.484917e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.484917e-11
+i(vg) = -1.69698e-10
+i(vs) = 8.484917e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.943187e-11
+i(vg) = -1.54281e-10
+i(vs) = 8.484917e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.648128e-11
+i(vg) = -1.41331e-10
+i(vs) = 8.484917e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.564324e-11
+i(vg) = -1.30493e-10
+i(vs) = 8.484917e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.661061e-11
+i(vg) = -1.21460e-10
+i(vs) = 8.484917e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.911738e-11
+i(vg) = -1.13967e-10
+i(vs) = 8.484917e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.293347e-11
+i(vg) = -1.07783e-10
+i(vs) = 8.484917e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.786016e-11
+i(vg) = -1.02709e-10
+i(vs) = 8.484917e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.372611e-11
+i(vg) = -9.85754e-11
+i(vs) = 8.484917e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.038379e-11
+i(vg) = -9.52329e-11
+i(vs) = 8.484917e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.706446e-12
+i(vg) = -9.25557e-11
+i(vs) = 8.484921e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.585156e-12
+i(vg) = -9.04348e-11
+i(vs) = 8.484946e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.925377e-12
+i(vg) = -8.87768e-11
+i(vs) = 8.485143e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.635937e-12
+i(vg) = -8.75029e-11
+i(vs) = 8.486686e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.558803e-12
+i(vg) = -8.65448e-11
+i(vs) = 8.498608e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -5.30501e-14
+i(vg) = -8.58458e-11
+i(vs) = 8.589864e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -7.45189e-12
+i(vg) = -8.53564e-11
+i(vs) = 9.280809e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -5.94036e-11
+i(vg) = -8.50355e-11
+i(vs) = 1.444392e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 2.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -4.38269e-10
+i(vg) = -8.48495e-11
+i(vs) = 5.231177e-10
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.803197e-10
+i(vg) = -2.49748e-10
+i(vs) = 6.943187e-11
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.502953e-10
+i(vg) = -2.19727e-10
+i(vs) = 6.943187e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.247767e-10
+i(vg) = -1.94208e-10
+i(vs) = 6.943187e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.031411e-10
+i(vg) = -1.72573e-10
+i(vs) = 6.943187e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.484917e-11
+i(vg) = -1.54281e-10
+i(vs) = 6.943187e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.943187e-11
+i(vg) = -1.38864e-10
+i(vs) = 6.943187e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.648128e-11
+i(vg) = -1.25913e-10
+i(vs) = 6.943187e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.564324e-11
+i(vg) = -1.15075e-10
+i(vs) = 6.943187e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.661061e-11
+i(vg) = -1.06043e-10
+i(vs) = 6.943187e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.911738e-11
+i(vg) = -9.85494e-11
+i(vs) = 6.943187e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.293347e-11
+i(vg) = -9.23654e-11
+i(vs) = 6.943187e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.786016e-11
+i(vg) = -8.72922e-11
+i(vs) = 6.943187e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.372611e-11
+i(vg) = -8.31581e-11
+i(vs) = 6.943187e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.038380e-11
+i(vg) = -7.98157e-11
+i(vs) = 6.943188e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.706454e-12
+i(vg) = -7.71385e-11
+i(vs) = 6.943190e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.585218e-12
+i(vg) = -7.50175e-11
+i(vs) = 6.943210e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.925866e-12
+i(vg) = -7.33595e-11
+i(vs) = 6.943365e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.639741e-12
+i(vg) = -7.20857e-11
+i(vs) = 6.944576e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.588213e-12
+i(vg) = -7.11278e-11
+i(vs) = 6.953938e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.726434e-13
+i(vg) = -7.04283e-11
+i(vs) = 7.025565e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -5.73341e-12
+i(vg) = -6.99392e-11
+i(vs) = 7.567231e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -4.64497e-11
+i(vg) = -6.96183e-11
+i(vs) = 1.160680e-10
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 2.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -3.42210e-10
+i(vg) = -6.94320e-11
+i(vs) = 4.116422e-10
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.803197e-10
+i(vg) = -2.36797e-10
+i(vs) = 5.648128e-11
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.502953e-10
+i(vg) = -2.06776e-10
+i(vs) = 5.648128e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.247767e-10
+i(vg) = -1.81258e-10
+i(vs) = 5.648128e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.031411e-10
+i(vg) = -1.59623e-10
+i(vs) = 5.648128e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.484917e-11
+i(vg) = -1.41331e-10
+i(vs) = 5.648128e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.943187e-11
+i(vg) = -1.25913e-10
+i(vs) = 5.648128e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.648128e-11
+i(vg) = -1.12963e-10
+i(vs) = 5.648128e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.564324e-11
+i(vg) = -1.02125e-10
+i(vs) = 5.648128e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.661061e-11
+i(vg) = -9.30920e-11
+i(vs) = 5.648128e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.911738e-11
+i(vg) = -8.55986e-11
+i(vs) = 5.648128e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.293347e-11
+i(vg) = -7.94149e-11
+i(vs) = 5.648128e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.786016e-11
+i(vg) = -7.43416e-11
+i(vs) = 5.648128e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.372611e-11
+i(vg) = -7.02076e-11
+i(vs) = 5.648128e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.038380e-11
+i(vg) = -6.68652e-11
+i(vs) = 5.648128e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.706460e-12
+i(vg) = -6.41878e-11
+i(vs) = 5.648130e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.585267e-12
+i(vg) = -6.20668e-11
+i(vs) = 5.648146e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.926249e-12
+i(vg) = -6.04090e-11
+i(vs) = 5.648267e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.642725e-12
+i(vg) = -5.91351e-11
+i(vs) = 5.649218e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.611236e-12
+i(vg) = -5.81770e-11
+i(vs) = 5.656576e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.487655e-13
+i(vg) = -5.74778e-11
+i(vs) = 5.712894e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -4.39854e-12
+i(vg) = -5.69882e-11
+i(vs) = 6.138685e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -3.64460e-11
+i(vg) = -5.66678e-11
+i(vs) = 9.311374e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 3.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -2.68495e-10
+i(vg) = -5.64813e-11
+i(vs) = 3.249768e-10
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.803197e-10
+i(vg) = -2.25959e-10
+i(vs) = 4.564324e-11
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.502953e-10
+i(vg) = -1.95939e-10
+i(vs) = 4.564324e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.247767e-10
+i(vg) = -1.70420e-10
+i(vs) = 4.564324e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.031411e-10
+i(vg) = -1.48784e-10
+i(vs) = 4.564324e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.484917e-11
+i(vg) = -1.30493e-10
+i(vs) = 4.564324e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.943187e-11
+i(vg) = -1.15075e-10
+i(vs) = 4.564324e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.648128e-11
+i(vg) = -1.02125e-10
+i(vs) = 4.564324e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.564324e-11
+i(vg) = -9.12868e-11
+i(vs) = 4.564324e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.661061e-11
+i(vg) = -8.22540e-11
+i(vs) = 4.564324e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.911738e-11
+i(vg) = -7.47604e-11
+i(vs) = 4.564324e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.293347e-11
+i(vg) = -6.85767e-11
+i(vs) = 4.564324e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.786016e-11
+i(vg) = -6.35036e-11
+i(vs) = 4.564324e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.372611e-11
+i(vg) = -5.93694e-11
+i(vs) = 4.564324e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.038380e-11
+i(vg) = -5.60270e-11
+i(vs) = 4.564324e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.706465e-12
+i(vg) = -5.33498e-11
+i(vs) = 4.564326e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.585305e-12
+i(vg) = -5.12286e-11
+i(vs) = 4.564338e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.926550e-12
+i(vg) = -4.95710e-11
+i(vs) = 4.564433e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.645068e-12
+i(vg) = -4.82969e-11
+i(vs) = 4.565180e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.629310e-12
+i(vg) = -4.73390e-11
+i(vs) = 4.570965e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.868104e-13
+i(vg) = -4.66398e-11
+i(vs) = 4.615285e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -3.35533e-12
+i(vg) = -4.61502e-11
+i(vs) = 4.950560e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -2.86610e-11
+i(vg) = -4.58298e-11
+i(vs) = 7.449063e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 3.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -2.11414e-10
+i(vg) = -4.56433e-11
+i(vs) = 2.570574e-10
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.803197e-10
+i(vg) = -2.16926e-10
+i(vs) = 3.661061e-11
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.502953e-10
+i(vg) = -1.86906e-10
+i(vs) = 3.661061e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.247767e-10
+i(vg) = -1.61388e-10
+i(vs) = 3.661061e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.031411e-10
+i(vg) = -1.39752e-10
+i(vs) = 3.661061e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.484917e-11
+i(vg) = -1.21460e-10
+i(vs) = 3.661061e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.943187e-11
+i(vg) = -1.06043e-10
+i(vs) = 3.661061e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.648128e-11
+i(vg) = -9.30920e-11
+i(vs) = 3.661061e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.564324e-11
+i(vg) = -8.22540e-11
+i(vs) = 3.661061e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.661061e-11
+i(vg) = -7.32214e-11
+i(vs) = 3.661061e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.911738e-11
+i(vg) = -6.57279e-11
+i(vs) = 3.661061e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.293347e-11
+i(vg) = -5.95441e-11
+i(vs) = 3.661061e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.786016e-11
+i(vg) = -5.44709e-11
+i(vs) = 3.661061e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.372611e-11
+i(vg) = -5.03368e-11
+i(vs) = 3.661061e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.038380e-11
+i(vg) = -4.69946e-11
+i(vs) = 3.661062e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.706468e-12
+i(vg) = -4.43172e-11
+i(vs) = 3.661063e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.585336e-12
+i(vg) = -4.21960e-11
+i(vs) = 3.661072e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.926786e-12
+i(vg) = -4.05385e-11
+i(vs) = 3.661147e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.646910e-12
+i(vg) = -3.92644e-11
+i(vs) = 3.661733e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.643524e-12
+i(vg) = -3.83062e-11
+i(vs) = 3.666281e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.953250e-13
+i(vg) = -3.76070e-11
+i(vs) = 3.701171e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -2.53646e-12
+i(vg) = -3.71176e-11
+i(vs) = 3.965410e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -2.25657e-11
+i(vg) = -3.67972e-11
+i(vs) = 5.936276e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 4.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -1.66875e-10
+i(vg) = -3.66107e-11
+i(vs) = 2.034858e-10
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.803197e-10
+i(vg) = -2.09433e-10
+i(vs) = 2.911738e-11
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.502953e-10
+i(vg) = -1.79413e-10
+i(vs) = 2.911738e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.247767e-10
+i(vg) = -1.53894e-10
+i(vs) = 2.911738e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.031411e-10
+i(vg) = -1.32258e-10
+i(vs) = 2.911738e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.484917e-11
+i(vg) = -1.13967e-10
+i(vs) = 2.911738e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.943187e-11
+i(vg) = -9.85494e-11
+i(vs) = 2.911738e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.648128e-11
+i(vg) = -8.55986e-11
+i(vs) = 2.911738e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.564324e-11
+i(vg) = -7.47604e-11
+i(vs) = 2.911738e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.661061e-11
+i(vg) = -6.57279e-11
+i(vs) = 2.911738e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.911738e-11
+i(vg) = -5.82348e-11
+i(vs) = 2.911738e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.293347e-11
+i(vg) = -5.20508e-11
+i(vs) = 2.911738e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.786016e-11
+i(vg) = -4.69778e-11
+i(vs) = 2.911738e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.372611e-11
+i(vg) = -4.28437e-11
+i(vs) = 2.911738e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.038380e-11
+i(vg) = -3.95013e-11
+i(vs) = 2.911739e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.706471e-12
+i(vg) = -3.68241e-11
+i(vs) = 2.911740e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.585359e-12
+i(vg) = -3.47027e-11
+i(vs) = 2.911747e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.926972e-12
+i(vg) = -3.30453e-11
+i(vs) = 2.911805e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.648359e-12
+i(vg) = -3.17710e-11
+i(vs) = 2.912265e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.654711e-12
+i(vg) = -3.08131e-11
+i(vs) = 2.915839e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.807724e-13
+i(vg) = -3.01141e-11
+i(vs) = 2.943303e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -1.89181e-12
+i(vg) = -2.96245e-11
+i(vs) = 3.151623e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -1.77725e-11
+i(vg) = -2.93041e-11
+i(vs) = 4.707633e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 4.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -1.31914e-10
+i(vg) = -2.91176e-11
+i(vs) = 1.610314e-10
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.803197e-10
+i(vg) = -2.03249e-10
+i(vs) = 2.293347e-11
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.502953e-10
+i(vg) = -1.73229e-10
+i(vs) = 2.293347e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.247767e-10
+i(vg) = -1.47710e-10
+i(vs) = 2.293347e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.031411e-10
+i(vg) = -1.26075e-10
+i(vs) = 2.293347e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.484917e-11
+i(vg) = -1.07783e-10
+i(vs) = 2.293347e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.943187e-11
+i(vg) = -9.23654e-11
+i(vs) = 2.293347e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.648128e-11
+i(vg) = -7.94149e-11
+i(vs) = 2.293347e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.564324e-11
+i(vg) = -6.85767e-11
+i(vs) = 2.293347e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.661061e-11
+i(vg) = -5.95441e-11
+i(vs) = 2.293347e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.911738e-11
+i(vg) = -5.20508e-11
+i(vs) = 2.293347e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.293347e-11
+i(vg) = -4.58671e-11
+i(vs) = 2.293347e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.786016e-11
+i(vg) = -4.07940e-11
+i(vs) = 2.293347e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.372611e-11
+i(vg) = -3.66598e-11
+i(vs) = 2.293347e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.038380e-11
+i(vg) = -3.33173e-11
+i(vs) = 2.293347e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.706474e-12
+i(vg) = -3.06399e-11
+i(vs) = 2.293348e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.585378e-12
+i(vg) = -2.85190e-11
+i(vs) = 2.293354e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.927118e-12
+i(vg) = -2.68610e-11
+i(vs) = 2.293399e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.649499e-12
+i(vg) = -2.55871e-11
+i(vs) = 2.293760e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.663521e-12
+i(vg) = -2.46294e-11
+i(vs) = 2.296567e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.481150e-13
+i(vg) = -2.39300e-11
+i(vs) = 2.318178e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -1.38345e-12
+i(vg) = -2.34404e-11
+i(vs) = 2.482396e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -1.39923e-11
+i(vg) = -2.31197e-11
+i(vs) = 3.711223e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 5.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -1.04352e-10
+i(vg) = -2.29334e-11
+i(vs) = 1.272858e-10
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.803197e-10
+i(vg) = -1.98176e-10
+i(vs) = 1.786016e-11
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.502953e-10
+i(vg) = -1.68156e-10
+i(vs) = 1.786016e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.247767e-10
+i(vg) = -1.42637e-10
+i(vs) = 1.786016e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.031411e-10
+i(vg) = -1.21001e-10
+i(vs) = 1.786016e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.484917e-11
+i(vg) = -1.02709e-10
+i(vs) = 1.786016e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.943187e-11
+i(vg) = -8.72922e-11
+i(vs) = 1.786016e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.648128e-11
+i(vg) = -7.43416e-11
+i(vs) = 1.786016e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.564324e-11
+i(vg) = -6.35036e-11
+i(vs) = 1.786016e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.661061e-11
+i(vg) = -5.44709e-11
+i(vs) = 1.786016e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.911738e-11
+i(vg) = -4.69778e-11
+i(vs) = 1.786016e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.293347e-11
+i(vg) = -4.07940e-11
+i(vs) = 1.786016e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.786016e-11
+i(vg) = -3.57203e-11
+i(vs) = 1.786016e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.372611e-11
+i(vg) = -3.15863e-11
+i(vs) = 1.786016e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.038380e-11
+i(vg) = -2.82441e-11
+i(vs) = 1.786016e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.706476e-12
+i(vg) = -2.55667e-11
+i(vs) = 1.786017e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.585392e-12
+i(vg) = -2.34457e-11
+i(vs) = 1.786021e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.927233e-12
+i(vg) = -2.17879e-11
+i(vs) = 1.786057e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.650396e-12
+i(vg) = -2.05138e-11
+i(vs) = 1.786339e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.670459e-12
+i(vg) = -1.95561e-11
+i(vs) = 1.788542e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.012107e-13
+i(vg) = -1.88569e-11
+i(vs) = 1.805537e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -9.82218e-13
+i(vg) = -1.83673e-11
+i(vs) = 1.934941e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -1.10060e-11
+i(vg) = -1.80467e-11
+i(vs) = 2.905263e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 5.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -8.25627e-11
+i(vg) = -1.78604e-11
+i(vs) = 1.004229e-10
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.803197e-10
+i(vg) = -1.94042e-10
+i(vs) = 1.372611e-11
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.502953e-10
+i(vg) = -1.64021e-10
+i(vs) = 1.372611e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.247767e-10
+i(vg) = -1.38503e-10
+i(vs) = 1.372611e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.031411e-10
+i(vg) = -1.16867e-10
+i(vs) = 1.372611e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.484917e-11
+i(vg) = -9.85754e-11
+i(vs) = 1.372611e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.943187e-11
+i(vg) = -8.31581e-11
+i(vs) = 1.372611e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.648128e-11
+i(vg) = -7.02076e-11
+i(vs) = 1.372611e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.564324e-11
+i(vg) = -5.93694e-11
+i(vs) = 1.372611e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.661061e-11
+i(vg) = -5.03368e-11
+i(vs) = 1.372611e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.911738e-11
+i(vg) = -4.28437e-11
+i(vs) = 1.372611e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.293347e-11
+i(vg) = -3.66598e-11
+i(vs) = 1.372611e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.786016e-11
+i(vg) = -3.15863e-11
+i(vs) = 1.372611e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.372611e-11
+i(vg) = -2.74523e-11
+i(vs) = 1.372611e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.038380e-11
+i(vg) = -2.41100e-11
+i(vs) = 1.372611e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.706477e-12
+i(vg) = -2.14326e-11
+i(vs) = 1.372611e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.585404e-12
+i(vg) = -1.93117e-11
+i(vs) = 1.372615e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.927324e-12
+i(vg) = -1.76537e-11
+i(vs) = 1.372643e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.651102e-12
+i(vg) = -1.63800e-11
+i(vs) = 1.372863e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.675926e-12
+i(vg) = -1.54221e-11
+i(vs) = 1.374590e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.430846e-13
+i(vg) = -1.47227e-11
+i(vs) = 1.387944e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -6.65409e-13
+i(vg) = -1.42333e-11
+i(vs) = 1.489855e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -8.64492e-12
+i(vg) = -1.39124e-11
+i(vs) = 2.255746e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 6.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -6.53086e-11
+i(vg) = -1.37261e-11
+i(vs) = 7.903470e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.803197e-10
+i(vg) = -1.90699e-10
+i(vs) = 1.038379e-11
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.502954e-10
+i(vg) = -1.60679e-10
+i(vs) = 1.038379e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.247767e-10
+i(vg) = -1.35161e-10
+i(vs) = 1.038379e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.031411e-10
+i(vg) = -1.13525e-10
+i(vs) = 1.038379e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.484917e-11
+i(vg) = -9.52329e-11
+i(vs) = 1.038379e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.943188e-11
+i(vg) = -7.98157e-11
+i(vs) = 1.038380e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.648128e-11
+i(vg) = -6.68652e-11
+i(vs) = 1.038380e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.564324e-11
+i(vg) = -5.60270e-11
+i(vs) = 1.038380e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.661062e-11
+i(vg) = -4.69946e-11
+i(vs) = 1.038380e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.911739e-11
+i(vg) = -3.95013e-11
+i(vs) = 1.038380e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.293347e-11
+i(vg) = -3.33173e-11
+i(vs) = 1.038380e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.786016e-11
+i(vg) = -2.82441e-11
+i(vs) = 1.038380e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.372611e-11
+i(vg) = -2.41100e-11
+i(vs) = 1.038380e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.038380e-11
+i(vg) = -2.07676e-11
+i(vs) = 1.038380e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.706479e-12
+i(vg) = -1.80904e-11
+i(vs) = 1.038380e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.585413e-12
+i(vg) = -1.59694e-11
+i(vs) = 1.038383e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.927396e-12
+i(vg) = -1.43117e-11
+i(vs) = 1.038404e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.651660e-12
+i(vg) = -1.30373e-11
+i(vs) = 1.038576e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.680238e-12
+i(vg) = -1.20794e-11
+i(vs) = 1.039928e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.761219e-13
+i(vg) = -1.13805e-11
+i(vs) = 1.050410e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -4.15195e-13
+i(vg) = -1.08908e-11
+i(vs) = 1.130603e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -6.77739e-12
+i(vg) = -1.05704e-11
+i(vs) = 1.734762e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 6.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -5.16353e-11
+i(vg) = -1.03839e-11
+i(vs) = 6.201914e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.803198e-10
+i(vg) = -1.88022e-10
+i(vs) = 7.706385e-12
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.502954e-10
+i(vg) = -1.58002e-10
+i(vs) = 7.706406e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.247768e-10
+i(vg) = -1.32483e-10
+i(vs) = 7.706423e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.031411e-10
+i(vg) = -1.10848e-10
+i(vs) = 7.706436e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.484921e-11
+i(vg) = -9.25557e-11
+i(vs) = 7.706446e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.943190e-11
+i(vg) = -7.71385e-11
+i(vs) = 7.706454e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.648130e-11
+i(vg) = -6.41878e-11
+i(vs) = 7.706460e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.564326e-11
+i(vg) = -5.33498e-11
+i(vs) = 7.706465e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.661063e-11
+i(vg) = -4.43172e-11
+i(vs) = 7.706468e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.911740e-11
+i(vg) = -3.68241e-11
+i(vs) = 7.706471e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.293348e-11
+i(vg) = -3.06399e-11
+i(vs) = 7.706474e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.786017e-11
+i(vg) = -2.55667e-11
+i(vs) = 7.706476e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.372611e-11
+i(vg) = -2.14326e-11
+i(vs) = 7.706477e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.038380e-11
+i(vg) = -1.80904e-11
+i(vs) = 7.706479e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.706482e-12
+i(vg) = -1.54128e-11
+i(vs) = 7.706482e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.585423e-12
+i(vg) = -1.32920e-11
+i(vs) = 7.706502e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.927455e-12
+i(vg) = -1.16342e-11
+i(vs) = 7.706669e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.652104e-12
+i(vg) = -1.03599e-11
+i(vs) = 7.708004e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.683646e-12
+i(vg) = -9.40248e-12
+i(vs) = 7.718553e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 9.022114e-13
+i(vg) = -8.70304e-12
+i(vs) = 7.800691e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -2.17498e-13
+i(vg) = -8.21365e-12
+i(vs) = 8.431013e-12
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -5.29992e-12
+i(vg) = -7.89302e-12
+i(vs) = 1.319283e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 7.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -4.07964e-11
+i(vg) = -7.70650e-12
+i(vs) = 4.850288e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.803204e-10
+i(vg) = -1.85901e-10
+i(vs) = 5.584678e-12
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.502959e-10
+i(vg) = -1.55881e-10
+i(vs) = 5.584845e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.247772e-10
+i(vg) = -1.30362e-10
+i(vs) = 5.584975e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.031414e-10
+i(vg) = -1.08727e-10
+i(vs) = 5.585077e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.484946e-11
+i(vg) = -9.04348e-11
+i(vs) = 5.585156e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.943210e-11
+i(vg) = -7.50175e-11
+i(vs) = 5.585218e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.648146e-11
+i(vg) = -6.20668e-11
+i(vs) = 5.585267e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.564338e-11
+i(vg) = -5.12286e-11
+i(vs) = 5.585305e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.661072e-11
+i(vg) = -4.21960e-11
+i(vs) = 5.585336e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.911747e-11
+i(vg) = -3.47027e-11
+i(vs) = 5.585359e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.293354e-11
+i(vg) = -2.85190e-11
+i(vs) = 5.585378e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.786021e-11
+i(vg) = -2.34457e-11
+i(vs) = 5.585392e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.372615e-11
+i(vg) = -1.93117e-11
+i(vs) = 5.585404e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.038383e-11
+i(vg) = -1.59694e-11
+i(vs) = 5.585413e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.706502e-12
+i(vg) = -1.32920e-11
+i(vs) = 5.585423e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.585443e-12
+i(vg) = -1.11708e-11
+i(vs) = 5.585443e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.927513e-12
+i(vg) = -9.51328e-12
+i(vs) = 5.585572e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.652466e-12
+i(vg) = -8.23919e-12
+i(vs) = 5.586603e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.686359e-12
+i(vg) = -7.28106e-12
+i(vs) = 5.594801e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 9.228625e-13
+i(vg) = -6.58185e-12
+i(vs) = 5.659001e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -6.11507e-14
+i(vg) = -6.09224e-12
+i(vs) = 6.153627e-12
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -4.13059e-12
+i(vg) = -5.77205e-12
+i(vs) = 9.902462e-12
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 7.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -3.22027e-11
+i(vg) = -5.58531e-12
+i(vs) = 3.778817e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.803257e-10
+i(vg) = -1.84243e-10
+i(vs) = 3.921600e-12
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.503001e-10
+i(vg) = -1.54223e-10
+i(vs) = 3.922928e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.247804e-10
+i(vg) = -1.28704e-10
+i(vs) = 3.923955e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.031439e-10
+i(vg) = -1.07069e-10
+i(vs) = 3.924753e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.485143e-11
+i(vg) = -8.87768e-11
+i(vs) = 3.925377e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.943365e-11
+i(vg) = -7.33595e-11
+i(vs) = 3.925866e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.648267e-11
+i(vg) = -6.04090e-11
+i(vs) = 3.926249e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.564433e-11
+i(vg) = -4.95710e-11
+i(vs) = 3.926550e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.661147e-11
+i(vg) = -4.05385e-11
+i(vs) = 3.926786e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.911805e-11
+i(vg) = -3.30453e-11
+i(vs) = 3.926972e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.293399e-11
+i(vg) = -2.68610e-11
+i(vs) = 3.927118e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.786057e-11
+i(vg) = -2.17879e-11
+i(vs) = 3.927233e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.372643e-11
+i(vg) = -1.76537e-11
+i(vs) = 3.927324e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.038404e-11
+i(vg) = -1.43117e-11
+i(vs) = 3.927396e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.706669e-12
+i(vg) = -1.16342e-11
+i(vs) = 3.927455e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.585572e-12
+i(vg) = -9.51328e-12
+i(vs) = 3.927513e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.927642e-12
+i(vg) = -7.85549e-12
+i(vs) = 3.927642e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.652826e-12
+i(vg) = -6.58118e-12
+i(vs) = 3.928441e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.688579e-12
+i(vg) = -5.62350e-12
+i(vs) = 3.934779e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 9.393221e-13
+i(vg) = -4.92406e-12
+i(vs) = 3.984740e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.278766e-14
+i(vg) = -4.43512e-12
+i(vs) = 4.371887e-12
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -3.20428e-12
+i(vg) = -4.11426e-12
+i(vs) = 7.318349e-12
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 8.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -2.53869e-11
+i(vg) = -3.92775e-12
+i(vs) = 2.931459e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.803671e-10
+i(vg) = -1.82970e-10
+i(vs) = 2.606225e-12
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.503322e-10
+i(vg) = -1.52949e-10
+i(vs) = 2.616743e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.248055e-10
+i(vg) = -1.27431e-10
+i(vs) = 2.624821e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.031636e-10
+i(vg) = -1.05795e-10
+i(vs) = 2.631071e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.486686e-11
+i(vg) = -8.75029e-11
+i(vs) = 2.635937e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.944576e-11
+i(vg) = -7.20857e-11
+i(vs) = 2.639741e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.649218e-11
+i(vg) = -5.91351e-11
+i(vs) = 2.642725e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.565180e-11
+i(vg) = -4.82969e-11
+i(vs) = 2.645068e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.661733e-11
+i(vg) = -3.92644e-11
+i(vs) = 2.646910e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.912265e-11
+i(vg) = -3.17710e-11
+i(vs) = 2.648359e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.293760e-11
+i(vg) = -2.55871e-11
+i(vs) = 2.649499e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.786339e-11
+i(vg) = -2.05138e-11
+i(vs) = 2.650396e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.372863e-11
+i(vg) = -1.63800e-11
+i(vs) = 2.651102e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.038576e-11
+i(vg) = -1.30373e-11
+i(vs) = 2.651660e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.708004e-12
+i(vg) = -1.03599e-11
+i(vs) = 2.652104e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.586603e-12
+i(vg) = -8.23919e-12
+i(vs) = 2.652466e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.928441e-12
+i(vg) = -6.58118e-12
+i(vs) = 2.652826e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.653626e-12
+i(vg) = -5.30731e-12
+i(vs) = 2.653626e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.690788e-12
+i(vg) = -4.34941e-12
+i(vs) = 2.658554e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 9.528128e-13
+i(vg) = -3.64997e-12
+i(vs) = 2.697233e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.617191e-13
+i(vg) = -3.16080e-12
+i(vs) = 2.998940e-12
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -2.46875e-12
+i(vg) = -2.83995e-12
+i(vs) = 5.308805e-12
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 8.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -1.99765e-11
+i(vg) = -2.65366e-12
+i(vs) = 2.263011e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.806896e-10
+i(vg) = -1.82012e-10
+i(vs) = 1.325818e-12
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.505821e-10
+i(vg) = -1.51991e-10
+i(vs) = 1.408994e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.250001e-10
+i(vg) = -1.26473e-10
+i(vs) = 1.472357e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.033157e-10
+i(vg) = -1.04837e-10
+i(vs) = 1.521067e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.498608e-11
+i(vg) = -8.65448e-11
+i(vs) = 1.558803e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 6.953938e-11
+i(vg) = -7.11278e-11
+i(vs) = 1.588213e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.656576e-11
+i(vg) = -5.81770e-11
+i(vs) = 1.611236e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.570965e-11
+i(vg) = -4.73390e-11
+i(vs) = 1.629310e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.666281e-11
+i(vg) = -3.83062e-11
+i(vs) = 1.643524e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.915839e-11
+i(vg) = -3.08131e-11
+i(vs) = 1.654711e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.296567e-11
+i(vg) = -2.46294e-11
+i(vs) = 1.663521e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.788542e-11
+i(vg) = -1.95561e-11
+i(vs) = 1.670459e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.374590e-11
+i(vg) = -1.54221e-11
+i(vs) = 1.675926e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.039928e-11
+i(vg) = -1.20794e-11
+i(vs) = 1.680238e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.718553e-12
+i(vg) = -9.40248e-12
+i(vs) = 1.683646e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.594801e-12
+i(vg) = -7.28106e-12
+i(vs) = 1.686359e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.934779e-12
+i(vg) = -5.62350e-12
+i(vs) = 1.688579e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.658554e-12
+i(vg) = -4.34941e-12
+i(vs) = 1.690788e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.695717e-12
+i(vg) = -3.39173e-12
+i(vs) = 1.695717e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 9.662547e-13
+i(vg) = -2.69229e-12
+i(vs) = 1.725882e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.429355e-13
+i(vg) = -2.20290e-12
+i(vs) = 1.959815e-12
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -1.88062e-12
+i(vg) = -1.88227e-12
+i(vs) = 3.762767e-12
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 9.000000e-01
+v(body) = 1.100000e+00
+i(vd) = -1.56715e-11
+i(vg) = -1.69575e-12
+i(vs) = 1.736722e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.831902e-10
+i(vg) = -1.81312e-10
+i(vs) = -1.87416e-12
+i(vb) = -4.02456e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.525095e-10
+i(vg) = -1.51292e-10
+i(vs) = -1.21770e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.264952e-10
+i(vg) = -1.25773e-10
+i(vs) = -7.22060e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.044815e-10
+i(vg) = -1.04138e-10
+i(vs) = -3.44024e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 8.589864e-11
+i(vg) = -8.58458e-11
+i(vs) = -5.30501e-14
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.025565e-11
+i(vg) = -7.04283e-11
+i(vs) = 1.726434e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.712894e-11
+i(vg) = -5.74778e-11
+i(vs) = 3.487655e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 4.615285e-11
+i(vg) = -4.66398e-11
+i(vs) = 4.868104e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.701171e-11
+i(vg) = -3.76070e-11
+i(vs) = 5.953250e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.943303e-11
+i(vg) = -3.01141e-11
+i(vs) = 6.807724e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.318178e-11
+i(vg) = -2.39300e-11
+i(vs) = 7.481150e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.805537e-11
+i(vg) = -1.88569e-11
+i(vs) = 8.012107e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.387944e-11
+i(vg) = -1.47227e-11
+i(vs) = 8.430846e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.050410e-11
+i(vg) = -1.13805e-11
+i(vs) = 8.761219e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 7.800691e-12
+i(vg) = -8.70304e-12
+i(vs) = 9.022114e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 5.659001e-12
+i(vg) = -6.58185e-12
+i(vs) = 9.228625e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.984740e-12
+i(vg) = -4.92406e-12
+i(vs) = 9.393221e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 2.697233e-12
+i(vg) = -3.64997e-12
+i(vs) = 9.528128e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 1.725882e-12
+i(vg) = -2.69229e-12
+i(vs) = 9.662547e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 9.964202e-13
+i(vg) = -1.99307e-12
+i(vs) = 9.964202e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = 3.239924e-13
+i(vg) = -1.50346e-12
+i(vs) = 1.179461e-12
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -1.39693e-12
+i(vg) = -1.18283e-12
+i(vs) = 2.579780e-12
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 9.500000e-01
+v(body) = 1.100000e+00
+i(vd) = -1.22221e-11
+i(vg) = -9.96536e-13
+i(vs) = 1.321852e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 2.024467e-10
+i(vg) = -1.80823e-10
+i(vs) = -2.16200e-11
+i(vb) = -3.99680e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.672628e-10
+i(vg) = -1.50802e-10
+i(vs) = -1.64604e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.378839e-10
+i(vg) = -1.25284e-10
+i(vs) = -1.26001e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.133294e-10
+i(vg) = -1.03648e-10
+i(vs) = -9.68132e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 9.280809e-11
+i(vg) = -8.53564e-11
+i(vs) = -7.45189e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 7.567231e-11
+i(vg) = -6.99392e-11
+i(vs) = -5.73341e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 6.138685e-11
+i(vg) = -5.69882e-11
+i(vs) = -4.39854e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 4.950560e-11
+i(vg) = -4.61502e-11
+i(vs) = -3.35533e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 3.965410e-11
+i(vg) = -3.71176e-11
+i(vs) = -2.53646e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 3.151623e-11
+i(vg) = -2.96245e-11
+i(vs) = -1.89181e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 2.482396e-11
+i(vg) = -2.34404e-11
+i(vs) = -1.38345e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.934941e-11
+i(vg) = -1.83673e-11
+i(vs) = -9.82218e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.489855e-11
+i(vg) = -1.42333e-11
+i(vs) = -6.65409e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.130603e-11
+i(vg) = -1.08908e-11
+i(vs) = -4.15195e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 8.431013e-12
+i(vg) = -8.21365e-12
+i(vs) = -2.17498e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 6.153627e-12
+i(vg) = -6.09224e-12
+i(vs) = -6.11507e-14
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 4.371887e-12
+i(vg) = -4.43512e-12
+i(vs) = 6.278766e-14
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 2.998940e-12
+i(vg) = -3.16080e-12
+i(vs) = 1.617191e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.959815e-12
+i(vg) = -2.20290e-12
+i(vs) = 2.429355e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.179461e-12
+i(vg) = -1.50346e-12
+i(vs) = 3.239924e-13
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = 5.070332e-13
+i(vg) = -1.01408e-12
+i(vs) = 5.070332e-13
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = -9.13247e-13
+i(vg) = -6.93889e-13
+i(vs) = 1.606712e-12
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.000000e+00
+v(body) = 1.100000e+00
+i(vd) = -9.37904e-12
+i(vg) = -5.07150e-13
+i(vs) = 9.886072e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 3.491632e-10
+i(vg) = -1.80502e-10
+i(vs) = -1.68657e-10
+i(vb) = -3.91354e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 2.789633e-10
+i(vg) = -1.50482e-10
+i(vs) = -1.28482e-10
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 2.236382e-10
+i(vg) = -1.24963e-10
+i(vs) = -9.86750e-11
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.796584e-10
+i(vg) = -1.03328e-10
+i(vs) = -7.63310e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.444392e-10
+i(vg) = -8.50355e-11
+i(vs) = -5.94036e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.160680e-10
+i(vg) = -6.96183e-11
+i(vs) = -4.64497e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 9.311374e-11
+i(vg) = -5.66678e-11
+i(vs) = -3.64460e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 7.449063e-11
+i(vg) = -4.58298e-11
+i(vs) = -2.86610e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 5.936276e-11
+i(vg) = -3.67972e-11
+i(vs) = -2.25657e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 4.707633e-11
+i(vg) = -2.93041e-11
+i(vs) = -1.77725e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 3.711223e-11
+i(vg) = -2.31197e-11
+i(vs) = -1.39923e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 2.905263e-11
+i(vg) = -1.80467e-11
+i(vs) = -1.10060e-11
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 2.255746e-11
+i(vg) = -1.39124e-11
+i(vs) = -8.64492e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.734762e-11
+i(vg) = -1.05704e-11
+i(vs) = -6.77739e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.319283e-11
+i(vg) = -7.89302e-12
+i(vs) = -5.29992e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 9.902462e-12
+i(vg) = -5.77205e-12
+i(vs) = -4.13059e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 7.318349e-12
+i(vg) = -4.11426e-12
+i(vs) = -3.20428e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 5.308805e-12
+i(vg) = -2.83995e-12
+i(vs) = -2.46875e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 3.762767e-12
+i(vg) = -1.88227e-12
+i(vs) = -1.88062e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 2.579780e-12
+i(vg) = -1.18283e-12
+i(vs) = -1.39693e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.606712e-12
+i(vg) = -6.93889e-13
+i(vs) = -9.13247e-13
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.864320e-13
+i(vg) = -3.73035e-13
+i(vs) = 1.864320e-13
+i(vb) = -5.55112e-17
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.050000e+00
+v(body) = 1.100000e+00
+i(vd) = -6.52913e-12
+i(vg) = -1.86517e-13
+i(vs) = 6.715557e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 0.000000e+00
+v(drain) = 0.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.445587e-09
+i(vg) = -1.80316e-10
+i(vs) = -1.26527e-09
+i(vb) = -6.05072e-15
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-02
+v(drain) = 5.000000e-02
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.109087e-09
+i(vg) = -1.50295e-10
+i(vs) = -9.58792e-10
+i(vb) = -4.44089e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e-01
+v(drain) = 1.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 8.576295e-10
+i(vg) = -1.24777e-10
+i(vs) = -7.32853e-10
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.500000e-01
+v(drain) = 1.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 6.678414e-10
+i(vg) = -1.03141e-10
+i(vs) = -5.64700e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.000000e-01
+v(drain) = 2.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 5.231177e-10
+i(vg) = -8.48495e-11
+i(vs) = -4.38269e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 2.500000e-01
+v(drain) = 2.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 4.116422e-10
+i(vg) = -6.94320e-11
+i(vs) = -3.42210e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.000000e-01
+v(drain) = 3.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 3.249768e-10
+i(vg) = -5.64813e-11
+i(vs) = -2.68495e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 3.500000e-01
+v(drain) = 3.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 2.570574e-10
+i(vg) = -4.56433e-11
+i(vs) = -2.11414e-10
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.000000e-01
+v(drain) = 4.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 2.034858e-10
+i(vg) = -3.66107e-11
+i(vs) = -1.66875e-10
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 4.500000e-01
+v(drain) = 4.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.610314e-10
+i(vg) = -2.91176e-11
+i(vs) = -1.31914e-10
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.000000e-01
+v(drain) = 5.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.272858e-10
+i(vg) = -2.29334e-11
+i(vs) = -1.04352e-10
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 5.500000e-01
+v(drain) = 5.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.004229e-10
+i(vg) = -1.78604e-11
+i(vs) = -8.25627e-11
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.000000e-01
+v(drain) = 6.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 7.903470e-11
+i(vg) = -1.37261e-11
+i(vs) = -6.53086e-11
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 6.500000e-01
+v(drain) = 6.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 6.201914e-11
+i(vg) = -1.03839e-11
+i(vs) = -5.16353e-11
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.000000e-01
+v(drain) = 7.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 4.850288e-11
+i(vg) = -7.70650e-12
+i(vs) = -4.07964e-11
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 7.500000e-01
+v(drain) = 7.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 3.778817e-11
+i(vg) = -5.58531e-12
+i(vs) = -3.22027e-11
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.000000e-01
+v(drain) = 8.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 2.931459e-11
+i(vg) = -3.92775e-12
+i(vs) = -2.53869e-11
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 8.500000e-01
+v(drain) = 8.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 2.263011e-11
+i(vg) = -2.65366e-12
+i(vs) = -1.99765e-11
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.000000e-01
+v(drain) = 9.000000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.736722e-11
+i(vg) = -1.69575e-12
+i(vs) = -1.56715e-11
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 9.500000e-01
+v(drain) = 9.500000e-01
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.321852e-11
+i(vg) = -9.96536e-13
+i(vs) = -1.22221e-11
+i(vb) = -1.38778e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.000000e+00
+v(drain) = 1.000000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 9.886072e-12
+i(vg) = -5.07150e-13
+i(vs) = -9.37904e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.050000e+00
+v(drain) = 1.050000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 6.715557e-12
+i(vg) = -1.86517e-13
+i(vs) = -6.52913e-12
+i(vb) = -1.11022e-16
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 1
+abs(v(alim)) = 1.100000e+00
+v(drain) = 1.100000e+00
+v(gate) = 1.100000e+00
+v(source) = 1.100000e+00
+v(body) = 1.100000e+00
+i(vd) = 1.696366e-26
+i(vg) = 0.000000e+00
+i(vs) = -8.88573e-27
+i(vb) = -1.11022e-16
+ngspice-36 done
+

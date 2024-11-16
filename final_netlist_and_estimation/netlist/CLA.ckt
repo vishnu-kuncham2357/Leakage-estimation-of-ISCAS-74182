@@ -1,0 +1,224 @@
+.INCLUDE 45nm_HP.pm
+.OPTION GMIN=1e-020 ABSTOL=1e-18
+.option temp=25
+.include inverter.sub
+.include nand.sub
+.include nor.sub
+.include or.sub
+.include and.sub
+.PARAM Lmin=45n
+.PARAM Wmin=45n
+.PARAM Ldiff=90n
+.param supply = 1.1
+.global gnd vdd
+
+VDS vdd gnd 'supply'
+
+*search
+
+
+* V_Cn Cn gnd 1.1
+* V_G0 G0 gnd 1.1
+* V_P0 P0 gnd 1.1
+* V_G1 G1 gnd 1.1
+* V_P1 P1 gnd 1.1
+* V_G2 G2 gnd 1.1
+* V_P2 P2 gnd 1.1
+* V_G3 G3 gnd 1.1
+* V_P3 P3 gnd 1.1
+
+
+
+
+*NOT GATE
+
+xnot1 Cn Cn_bar vdd gnd inverter
+xnot_or1 Cnx_bar Cnx vdd gnd inverter
+xnot_or2 Cny_bar Cny vdd gnd inverter
+xnot_or3 Cnz_bar Cnz vdd gnd inverter
+
+*AND GATES
+
+xand1 G0 P0 and_out1 vdd gnd and
+
+xand2 Cn_bar G0 and_out2 vdd gnd and
+
+xand3 G1 P1 and_out3 vdd gnd and
+
+xand41 G0 G1 and_out4t vdd gnd and
+xand42 and_out4t P0 and_out4 vdd gnd and
+
+xand51 Cn_bar G0 and_out5t vdd gnd and
+xand52 and_out5t G1 and_out5 vdd gnd and
+
+xand6 G2 P2 and_out6 vdd gnd and
+
+xand71 G1 G2 and_out7t vdd gnd and
+xand72 and_out7t P1 and_out7 vdd gnd and
+
+xand81 G0 G1 and_out8t vdd gnd and
+xand82 and_out8t G2 and_out8t1 vdd gnd and
+xand83 and_out8t1 P0 and_out8 vdd gnd and
+
+xand91 Cn_bar G0 and_out9t vdd gnd and
+xand92 and_out9t G1 and_out9t1 vdd gnd and
+xand93 and_out9t1 G2 and_out9 vdd gnd and
+
+xand10 G3 P3 and_out10 vdd gnd and
+
+xand111 G2 G3 and_out11t vdd gnd and
+xand112 and_out11t P2 and_out11 vdd gnd and
+
+xand121 G1 G2 and_out12t vdd gnd and
+xand122 and_out12t G3 and_out12t1 vdd gnd and
+xand123 and_out12t1 P1 and_out12 vdd gnd and
+
+xand131 G0 G1 and_out13t vdd gnd and
+xand132 and_out13t G2 and_out13t1 vdd gnd and
+xand133 and_out13t1 G3 and_out13 vdd gnd and
+
+*OR GATES
+
+xor1 and_out1 and_out2 Cnx_bar vdd gnd or
+
+xor21 and_out3 and_out4 or_out21 vdd gnd or
+xor22 or_out21 and_out5 Cny_bar vdd gnd or
+
+xor31 and_out6 and_out7 or_out31 vdd gnd or
+xor32 or_out31 and_out8 or_out32 vdd gnd or
+xor33 or_out32 and_out9 Cnz_bar vdd gnd or
+
+xor41 and_out10 and_out11 or_out41 vdd gnd or
+xor42 or_out41 and_out12 or_out42 vdd gnd or
+xor43 or_out42 and_out13 G vdd gnd or
+
+xor51 P0 P1 or_out51 vdd gnd or
+xor52 or_out51 P2 or_out52 vdd gnd or
+xor53 or_out52 P3 P vdd gnd or
+
+
+
+.CONTROL
+    run
+    dc TEMP 25 25 25 
+    
+
+    
+    * * NOT gates
+
+    * print V(Cn) V(Cn_bar)
+    * print V(Cnx_bar) V(Cnx)
+    * print V(Cny_bar) V(Cny)
+    * print V(Cnz_bar) V(Cnz)
+
+
+
+    * *AND GATES
+
+    * print V(G0) V(P0) V(and_out1 )
+
+    * print V(Cn_bar) V(G0) V(and_out2 )
+
+    * print V(G1) V(P1) V(and_out3 )
+
+    * print V(G0) V(G1) V(and_out4t)  
+    * print V(and_out4t) V(P0) V(and_out4) 
+
+    * print V(Cn_bar) V(G0) V(and_out5t)  
+    * print V(and_out5t) V(G1) V(and_out5)
+
+    * print V(G2) V(P2) V(and_out6)  
+
+    * print V(G1) V(G2) V(and_out7t)  
+    * print V(and_out7t) V(P1) V(and_out7) 
+
+    * print V(G0) V(G1) V(and_out8t)  
+    * print V(and_out8t) V(G2) V(and_out8t1)  
+    * print V(and_out8t1) V(P0) V(and_out8) 
+
+    * print V(Cn_bar) V(G0) V(and_out9t)  
+    * print V(and_out9t) V(G1) V(and_out9t1)  
+    * print V(and_out9t1) V(G2) V(and_out9)
+
+    * print V(G3) V(P3) V(and_out10) 
+
+    * print V(G2) V(G3) V(and_out11t)  
+    * print V(and_out11t) V(P2) V(and_out11) 
+
+    * print V(G1) V(G2) V(and_out12t)  
+    * print V(and_out12t) V(G3) V(and_out12t1)  
+    * print V(and_out12t1) V(P1) V(and_out12)
+
+    * print V(G0) V(G1) V(and_out13t)  
+    * print V(and_out13t) V(G2) V(and_out13t1)  
+    * print V(and_out13t1) V(G3) V(and_out13)
+
+
+    * *OR GATES
+
+    * print V(and_out1) V(and_out2) V(or_out1)    
+    * print V(and_out3) V(and_out4) V(or_out21)    
+    * print V(or_out21) V(and_out5) V(or_out2)    
+    * print V(and_out6) V(and_out7) V(or_out31)    
+    * print V(or_out31) V(and_out8) V(or_out32)    
+    * print V(or_out32) V(and_out9) V(or_out3)    
+    * print V(and_out10) V(and_out11) V(or_out41)    
+    * print V(or_out41) V(and_out12) V(or_out42)    
+    * print V(or_out42) V(and_out13) V(G)    
+    * print V(P0) V(P1) V(or_out51)    
+    * print V(or_out51) V(P2) V(or_out52)    
+    * print V(or_out52) V(P3) V(P)
+
+
+    * NOT gates
+    print V(Cn)
+    print V(Cnx_bar)
+    print V(Cny_bar)
+    print V(Cnz_bar)
+    *AND GATES
+
+    print V(G0) V(P0)
+    print V(Cn_bar) V(G0) 
+    print V(G1) V(P1) 
+    print V(G0) V(G1)  
+    print V(and_out4t) V(P0)
+    print V(Cn_bar) V(G0)
+    print V(and_out5t) V(G1)
+    print V(G2) V(P2) 
+    print V(G1) V(G2)
+    print V(and_out7t) V(P1) 
+    print V(G0) V(G1)  
+    print V(and_out8t) V(G2)   
+    print V(and_out8t1) V(P0) 
+    print V(Cn_bar) V(G0)
+    print V(and_out9t) V(G1)  
+    print V(and_out9t1) V(G2)
+    print V(G3) V(P3)
+    print V(G2) V(G3)
+    print V(and_out11t) V(P2) 
+    print V(G1) V(G2)  
+    print V(and_out12t) V(G3) 
+    print V(and_out12t1) V(P1)
+    print V(G0) V(G1)
+    print V(and_out13t) V(G2)  
+    print V(and_out13t1) V(G3)
+    *OR GATES
+
+    print V(and_out1) V(and_out2)  
+    print V(and_out3) V(and_out4)    
+    print V(or_out21) V(and_out5) 
+    print V(and_out6) V(and_out7)    
+    print V(or_out31) V(and_out8)    
+    print V(or_out32) V(and_out9)  
+    print V(and_out10) V(and_out11)   
+    print V(or_out41) V(and_out12)    
+    print V(or_out42) V(and_out13)  
+    print V(P0) V(P1)  
+    print V(or_out51) V(P2)     
+    print V(or_out52) V(P3) 
+    print I(VDS) I(V_Cn) I(V_G0) I(V_G1) I(V_G2) I(V_G3) I(V_P0) I(V_P1) I(V_P2) I(V_P3)
+quit
+.ENDC
+
+.end
+

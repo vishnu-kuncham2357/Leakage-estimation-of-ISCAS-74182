@@ -1,0 +1,9 @@
+.subckt inverter in out vdd gnd
+
+    M1 out1 in vdd vdd pmos W={2*Wmin} L={Lmin} AS={2*Wmin*Ldiff} AD={2*Wmin*Ldiff} PS={2*(Ldiff+2*Wmin)} PD={2*(Ldiff+2*Wmin)}
+
+    M2 out in gnd gnd nmos W={Wmin} L={Lmin} AS={Wmin*Ldiff} AD={Wmin*Ldiff} PS={2*(Ldiff+Wmin)} PD={2*(Ldiff+Wmin)}
+
+    Vtemp out1 out 0
+
+.ends inverter

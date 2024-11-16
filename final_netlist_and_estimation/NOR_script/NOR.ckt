@@ -1,0 +1,80 @@
+.INCLUDE 45nm_HP.pm
+.OPTION GMIN=1e-020 ABSTOL=1e-18
+.option temp=25
+.PARAM Lmin=45n
+.PARAM Wmin=45n
+.PARAM Ldiff=90n
+.param supply = 1.1
+
+M1 d1 g1 s1 b1 pmos W={4*Wmin} L={Lmin} AS={4*Wmin*Ldiff} AD={4*Wmin*Ldiff} PS={2*(Ldiff+4*Wmin)} PD={2*(Ldiff+4*Wmin)}
+M2 d2 g2 s2 b2 pmos W={4*Wmin} L={Lmin} AS={4*Wmin*Ldiff} AD={4*Wmin*Ldiff} PS={2*(Ldiff+4*Wmin)} PD={2*(Ldiff+4*Wmin)}
+
+M3 d31 g31 s31 b31 nmos W={Wmin} L={Lmin} AS={Wmin*Ldiff} AD={Wmin*Ldiff} PS={2*(Ldiff+Wmin)} PD={2*(Ldiff+Wmin)}
+M4 d32 g32 s32 b32 nmos W={Wmin} L={Lmin} AS={Wmin*Ldiff} AD={Wmin*Ldiff} PS={2*(Ldiff+Wmin)} PD={2*(Ldiff+Wmin)}
+
+Vd1 d1 s2 0
+Vg1 g1 VA 0
+Vs1 s1 0 supply
+Vb1 b1 0 supply
+
+Vd2 d2 out 0
+Vg2 g2 VB 0
+* mentioned as Vd1
+Vb2 b2 0 supply
+
+Vd31 out d31 0
+Vg31 g31 VA 0
+Vs31 s31 0 0
+Vb31 b31 0 0
+
+Vd32 out d32 0
+Vg32 g32 VB 0
+Vs32 s32 0 0
+Vb32 b32 0 0
+
+Valim1 VA alim1 0
+Valim2 VB alim2 0
+
+*inputs
+Vin1 alim1 0 supply
+Vin2 alim2 0 supply
+
+.CONTROL
+let vddBase = 1.12
+let voltage = 0
+
+while voltage le vddBase
+    alter Vin1 = voltage
+    let voltage2 = 0
+    while voltage2 le vddBase
+        alter Vin2 = voltage2
+        dc TEMP 25 25 25
+
+        print V(d1) V(g1) V(s1)
+        print V(d2) V(g2) V(s2)
+        print V(d31) V(g31) V(s31)
+        print V(d32) V(g32) V(s32) 
+        print I(Vs1) I(Vg1) I(Vg2) I(Vg31) I(Vg32)
+
+        *print I(Vd1) I(Vg1) I(Vs1) I(Vb1)
+        *print I(Vd2) I(Vg2) I(Vb2)
+        *print I(Vd31) I(Vg31) I(Vs31) I(Vb31)
+        *print I(Vd32) I(Vg32) I(Vs32) I(Vb32)
+        * print I(VAIn) I(VBIn)
+        * print V(d1) V(A) V(B)
+        * print I(Vs1) I(Vs11) I(Vb1) I(VAIn) I(Vbtw1)
+        * print I(VBIn) I(Vb2)
+        * print I(Vb3) I(Vbtw2)
+        * print I(Vb4) I(Vs2) I(Vd11) I(Vd12)
+        * print I(Vg1) I(Vg2)
+        *print V(out)
+        *print V(d1) 
+        let voltage2 = voltage2 + 1.1
+    end
+    let voltage = voltage + 1.1
+end
+* I(Vd1) I(Vg1) I(Vb1) I(Vbtw) I(Vg2) I(Vb2) I(Vs2) 
+quit
+.ENDC
+.END
+

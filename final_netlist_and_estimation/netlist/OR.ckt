@@ -1,0 +1,32 @@
+.INCLUDE 45nm_HP.pm
+.OPTION GMIN=1e-020 ABSTOL=1e-18
+.option temp=25
+.include inverter.sub
+.include nand.sub
+.include nor.sub
+.include or.sub
+.include and.sub
+.PARAM Lmin=45n
+.PARAM Wmin=45n
+.PARAM Ldiff=90n
+.param supply = 1.1
+.global gnd vdd
+
+VDS vdd gnd 'supply'
+Vin1 in1 0 supply
+Vin2 in2 0 supply
+
+xor1 in1 in2 out vdd gnd or
+
+
+
+
+.CONTROL
+    run
+    dc TEMP 25 25 25 
+    print V(in1) V(in2) V(out) 
+    print I(VDS) I(Vin1) I(Vin2)
+* I(Vd1) I(Vg1) I(Vb1) I(Vbtw) I(Vg2) I(Vb2) I(Vs2) 
+quit
+.ENDC
+.END

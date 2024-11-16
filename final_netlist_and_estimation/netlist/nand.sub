@@ -1,0 +1,13 @@
+.subckt nand in1 in2 out vdd gnd
+
+M1 out in1 vdd vdd pmos W={2*Wmin} L={Lmin} AS={2*Wmin*Ldiff} AD={2*Wmin*Ldiff} PS={2*(Ldiff+2*Wmin)} PD={2*(Ldiff+2*Wmin)}
+
+M2 out in2 vdd vdd pmos W={2*Wmin} L={Lmin} AS={2*Wmin*Ldiff} AD={2*Wmin*Ldiff} PS={2*(Ldiff+2*Wmin)} PD={2*(Ldiff+2*Wmin)}
+
+M3 out in1 vx gnd nmos W={2*Wmin} L={Lmin} AS={2*Wmin*Ldiff} AD={2*Wmin*Ldiff} PS={2*(Ldiff+2*Wmin)} PD={2*(Ldiff+2*Wmin)}
+
+M4 vx in2 gnd gnd nmos W={2*Wmin} L={Lmin} AS={2*Wmin*Ldiff} AD={2*Wmin*Ldiff} PS={2*(Ldiff+2*Wmin)} PD={2*(Ldiff+2*Wmin)}
+
+.ends nand
+
+* vx is the intermediate node

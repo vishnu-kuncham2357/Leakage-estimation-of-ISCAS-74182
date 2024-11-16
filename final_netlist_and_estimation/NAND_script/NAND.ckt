@@ -1,0 +1,49 @@
+.INCLUDE 45nm_HP.pm
+.OPTION GMIN=1e-020 ABSTOL=1e-18
+.option temp=25
+.PARAM Lmin=45n
+.PARAM Wmin=45n
+.PARAM Ldiff=90n
+.param supply = 1.1
+
+* Description of the cell
+M1 out g1 s1 1.1 pmos W={2*Wmin} L={Lmin} AS={2*Wmin*Ldiff} AD={2*Wmin*Ldiff} PS={2*(Ldiff+2*Wmin)} PD={2*(Ldiff+2*Wmin)}
+M2 out g2 s1 1.1 pmos W={2*Wmin} L={Lmin} AS={2*Wmin*Ldiff} AD={2*Wmin*Ldiff} PS={2*(Ldiff+2*Wmin)} PD={2*(Ldiff+2*Wmin)}
+
+M3 out g1 vx 0 nmos W={2*Wmin} L={Lmin} AS={2*Wmin*Ldiff} AD={2*Wmin*Ldiff} PS={2*(Ldiff+2*Wmin)} PD={2*(Ldiff+2*Wmin)}
+M4 vx g2 s2 0 nmos W={2*Wmin} L={Lmin} AS={2*Wmin*Ldiff} AD={2*Wmin*Ldiff} PS={2*(Ldiff+2*Wmin)} PD={2*(Ldiff+2*Wmin)}
+
+Vg1 g1 alim1 0
+Vg2 g2 alim2 0
+
+Vground1 alim1 0 0
+Vground2 alim2 0 0
+
+Vs1 s1 0 supply
+Vs2 s2 0 0
+
+.CONTROL
+let vddBase = 1.12
+let voltage = 0
+
+while voltage le vddBase
+    alter Vground1 = voltage
+    let voltage2 = 0
+    while voltage2 le vddBase
+        alter Vground2 = voltage2
+        dc TEMP 25 25 25
+
+        print V(out) V(g1) V(s1)
+        print V(out) v(g2) V(s1)
+        print V(out) V(g1) V(vx)
+        print V(vx) V(g2) V(s2)
+        print I(Vs1) I(Vg1) I(Vg2) I(Vs2)
+
+        let voltage2 = voltage2 + 1.1
+    end
+    let voltage = voltage + 1.1
+end
+* I(Vd1) I(Vg1) I(Vb1) I(Vbtw) I(Vg2) I(Vb2) I(Vs2) 
+quit
+.ENDC
+.END
